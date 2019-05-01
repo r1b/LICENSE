@@ -1,2 +1,2 @@
 # LICENSE
-public license
+I will maintain this code until I have a gf or relapse.
